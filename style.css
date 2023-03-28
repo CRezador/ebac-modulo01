@@ -1,0 +1,122 @@
+#app{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.create-hello-world{
+  display:block;
+
+  border:none;
+  border-radius:20px;
+
+  padding:20px;
+  background: blue;
+
+  color:white;
+  font:bold 20px Arial, sanz-serif ;
+}
+
+.create-hello-world:hover{
+  cursor: pointer;
+}
+
+.hello-world{
+  margin-top:10px;
+}
+
+.list-hello-world{
+  list-style-type: none;
+  margin-top: 15px;
+  padding: 0;
+}
+
+.color-1{
+  background:#51fe3a;
+  border-radius:10px;
+  padding:15px;
+  font: bold 10px Arial, sanz-serif;
+  
+  color: white;
+}
+
+.color-2{
+  background:#5D9B9B;
+  border-radius:10px;
+  padding:15px;
+  font: bold 10px Arial, sanz-serif;
+
+  color: white;
+}
+
+.color-3{
+  background:#E1CC4F;
+  border-radius:10px;
+  padding:15px;
+  font: bold 10px Arial, sanz-serif;
+
+  color: white;
+}
+
+.color-4{
+  background:#C35831;
+  border-radius:10px;
+  padding:15px;
+  font: bold 10px Arial, sanz-serif;
+
+  color: white;
+}
+
+.color-5{
+  background:#755C48;
+  border-radius:10px;
+  padding:15px;
+  font: bold 10px Arial, sanz-serif;
+
+  color: white; 
+}
+
+.color-6{
+  background:#0E294B;
+  border-radius:10px;
+  padding:15px;
+  font: bold 10px Arial, sanz-serif;
+
+  color: white;
+}
+
+.color-7{
+  background:#7FB5B5;
+  border-radius:10px;
+  padding:15px;
+  font: bold 10px Arial, sanz-serif;
+
+  color: white;
+}
+
+.color-8{
+  background:#B32821;
+  border-radius:10px;
+  padding:15px;
+  font: bold 10px Arial, sanz-serif;
+
+  color: white;
+}
+
+.color-9{
+  background:#403A3A;
+  border-radius:10px;
+  padding:15px;
+  font: bold 10px Arial, sanz-serif;
+
+  color: white;
+}
+
+.color-10{
+  background:#E5BE01;
+  border-radius:10px;
+  padding:15px;
+  font: bold 10px Arial, sanz-serif;
+
+  color: white;
+}
